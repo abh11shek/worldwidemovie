@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/worldwidemovie/static/css/main.65210f4b.chunk.css",
-    "main.js": "/worldwidemovie/static/js/main.451e759c.chunk.js",
-    "main.js.map": "/worldwidemovie/static/js/main.451e759c.chunk.js.map",
+    "main.css": "/worldwidemovie/static/css/main.89e8009b.chunk.css",
+    "main.js": "/worldwidemovie/static/js/main.aba0ab01.chunk.js",
+    "main.js.map": "/worldwidemovie/static/js/main.aba0ab01.chunk.js.map",
     "runtime-main.js": "/worldwidemovie/static/js/runtime-main.979db7d1.js",
     "runtime-main.js.map": "/worldwidemovie/static/js/runtime-main.979db7d1.js.map",
-    "static/js/2.0c708f02.chunk.js": "/worldwidemovie/static/js/2.0c708f02.chunk.js",
-    "static/js/2.0c708f02.chunk.js.map": "/worldwidemovie/static/js/2.0c708f02.chunk.js.map",
+    "static/js/2.aca84f72.chunk.js": "/worldwidemovie/static/js/2.aca84f72.chunk.js",
+    "static/js/2.aca84f72.chunk.js.map": "/worldwidemovie/static/js/2.aca84f72.chunk.js.map",
     "index.html": "/worldwidemovie/index.html",
-    "static/css/main.65210f4b.chunk.css.map": "/worldwidemovie/static/css/main.65210f4b.chunk.css.map",
-    "static/js/2.0c708f02.chunk.js.LICENSE.txt": "/worldwidemovie/static/js/2.0c708f02.chunk.js.LICENSE.txt"
+    "static/css/main.89e8009b.chunk.css.map": "/worldwidemovie/static/css/main.89e8009b.chunk.css.map",
+    "static/js/2.aca84f72.chunk.js.LICENSE.txt": "/worldwidemovie/static/js/2.aca84f72.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.979db7d1.js",
-    "static/js/2.0c708f02.chunk.js",
-    "static/css/main.65210f4b.chunk.css",
-    "static/js/main.451e759c.chunk.js"
+    "static/js/2.aca84f72.chunk.js",
+    "static/css/main.89e8009b.chunk.css",
+    "static/js/main.aba0ab01.chunk.js"
   ]
 }
