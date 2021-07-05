@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/worldwidemovie/static/css/main.89e8009b.chunk.css",
-    "main.js": "/worldwidemovie/static/js/main.aba0ab01.chunk.js",
-    "main.js.map": "/worldwidemovie/static/js/main.aba0ab01.chunk.js.map",
+    "main.js": "/worldwidemovie/static/js/main.576d1071.chunk.js",
+    "main.js.map": "/worldwidemovie/static/js/main.576d1071.chunk.js.map",
     "runtime-main.js": "/worldwidemovie/static/js/runtime-main.979db7d1.js",
     "runtime-main.js.map": "/worldwidemovie/static/js/runtime-main.979db7d1.js.map",
     "static/js/2.aca84f72.chunk.js": "/worldwidemovie/static/js/2.aca84f72.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.979db7d1.js",
     "static/js/2.aca84f72.chunk.js",
     "static/css/main.89e8009b.chunk.css",
-    "static/js/main.aba0ab01.chunk.js"
+    "static/js/main.576d1071.chunk.js"
   ]
 }
